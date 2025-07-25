@@ -45,7 +45,7 @@ public class AttendanceSystem {
             students.add(s);
         }
 
-        System.out.println("\n✅ Attendance Report:");
+        System.out.println("\n----------Attendance Report:----------");
         for (Student s : students) {
             s.display();
         }
