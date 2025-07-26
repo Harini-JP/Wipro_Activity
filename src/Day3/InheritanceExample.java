@@ -10,7 +10,7 @@ class Person {
     }
 }
 
-class Studen1 extends Person {
+class StudentDetails extends Person {
     String course;
 
     public void displayStudentDetails() {
@@ -21,7 +21,7 @@ class Studen1 extends Person {
 
 public class InheritanceExample {
     public static void main(String[] args) {
-    	Studen1 s = new Studen1();
+    	StudentDetails s = new StudentDetails();
         s.name= "Harini";
         s.age = 21;
         s.course = "B.E Computer Science";

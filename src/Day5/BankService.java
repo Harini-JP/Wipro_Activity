@@ -1,7 +1,7 @@
 package Day5;
 
 abstract class Bank {
- void greetCustomer() {
+ public void greetCustomer() {
      System.out.println("Welcome to SBI Bank! We're happy to serve you.");
  }
 
