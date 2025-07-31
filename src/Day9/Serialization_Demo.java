@@ -45,8 +45,8 @@ public class Serialization_Demo {
     public static void main(String[] args) {
         // Create student object
         Student_1 std1 = new Student_1();
-        std1.setRollno(10);       // Capital 'R' in setRollno
-        std1.setName("Afrid");
+        std1.setRollno(23);       // Capital 'R' in setRollno
+        std1.setName("Harini");
 
         try {
             // Create file to save object
