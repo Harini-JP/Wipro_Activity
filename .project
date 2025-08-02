@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>JDBC</name>
+=======
+	<name>Day01</name>
+>>>>>>> 71dd99dfef34b50e23af0713db9407e2a899dec3
 	<comment></comment>
 	<projects>
 	</projects>
